@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { BaseError } from "./errors";
 import { NextFunction, Request, Response, ErrorRequestHandler } from "express";
 import { AnyZodObject } from "zod";

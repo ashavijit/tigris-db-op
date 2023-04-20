@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { Router } from "express";
 import { DB } from "@tigrisdata/core";
 import { User } from "../db/models/user";

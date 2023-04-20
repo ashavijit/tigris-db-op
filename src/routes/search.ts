@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { Router } from "express";
 import { z } from "zod";
 import { DB, SearchQuery } from '@tigrisdata/core'
